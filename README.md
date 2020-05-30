@@ -1,3 +1,8 @@
+#/!\ This is absolute work in progress at a starting level so beware this may not be funtionnal yet.
+
+##As I'm aslo noob at github use, please apologize if some mistake in this use...
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
