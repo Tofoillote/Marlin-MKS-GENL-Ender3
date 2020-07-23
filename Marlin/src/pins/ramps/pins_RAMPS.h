@@ -102,10 +102,10 @@
 #endif
 #ifndef Z_STOP_PIN
   #ifndef Z_MIN_PIN
-    #define Z_MIN_PIN                         18
+    #define Z_MIN_PIN                         19  // TOFOILLOTE REVERSED PIN WITH Z_MAX_PIN
   #endif
   #ifndef Z_MAX_PIN
-    #define Z_MAX_PIN                         19
+    #define Z_MAX_PIN                         18 // TOFOILLOTE PIN FAILURE SO DO NOT USE WITH MY MKS GEN L !
   #endif
 #endif
 
